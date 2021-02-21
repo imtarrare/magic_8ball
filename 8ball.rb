@@ -42,4 +42,4 @@ puts ""
 sleep 2
 
 #выводим из массива случайным образом ответ
-puts "Знаки говорят - #{answers.sample}."
+puts answers.sample
